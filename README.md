@@ -1,11 +1,10 @@
-👀Yo!Yo!Yo! Check it now! Florence is here!
-
-🦩 Recent Projects:
-  1. **Crude Oil Insights:**
-    - What insights can be gleaned from the variance in crude oil prices within the context of oligopoly market?
-
-  2. **Exploring the US EV Industry Through the US Bicycle Sharing Systems**
-    - What insights could US electric vehicle (EV) ventures draw from US bicycle sharing system to address their long-term profitability challenges?
+💡My Recent Projects:
+  1.	[**Crude Oil within the Context of Oligopoly Market**](https://github.com/florencex5/Crude_Oil_Finance_Project)
+        - Inspiration Source: Machine learning might be a solution for the unknown oligopoly market
+        - *Crude oil (oligopoly market) + automaker (cyclical company) + climate change (global issue) =* **COLLABORATION**
+  2. [**Exploring the US Electric Vehicle(EV) Industry Through the US Bicycle Sharing Systems**](https://github.com/florencex5/EV_and_Bicycle)
+        - Inspiration Source: Bicycle Sharing System? EV? Are they similar? Are they different?
+     
 
 🌈 My Weekend:
 
@@ -19,7 +18,7 @@
 
 **Five** zesty kiwis🥝 for inspiration, and
 
-... an infinite symphony of code👩🏻‍💻
+... an infinite symphony of code🎹
 
 
 
