@@ -12,7 +12,7 @@
 - 
 * The summer of 2023 in New York, the sky ablaze with shades of orange. It was the spark of an idea that birthed this project series.
 * Series 2 just witnessed my maiden attempt at technical analysis. Hold the applause though, because, you know, no guarantees on the accuracy.Duh🥳
-* Hey there🤩 If you've stumbled upon these lines, chances are we share a common passion(E.g. Crude oil market, Electric vehicle, hydrogen economy,etc.)So, handle my projects with care, won't you?
+* Hey there🤩 If you've stumbled upon these lines, chances are we share a common passion(E.g. Crude oil market, Electric vehicle, Hydrogen economy,etc.)So, handle my projects with care, won't you?
 * Well, that's a wrap for this project series. But, it's not a farewell; think of it more like the kickoff for my adventure into the realms of Crude Oil, Automakers, and the ever-pressing issue of Climate Change. Stick around; it's about to get interesting😝
 
 
