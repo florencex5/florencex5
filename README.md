@@ -1,10 +1,19 @@
 💡My Recent Projects:
 -
-* **Welcome to the World of Hard Commodities⛏️**
+* **Cracking the Climate-Conscious Hard Commodities Code: Discovering Their True Value⛏️**
+  * Chapter One: When Traditional Key Inputs Meets Climate Transition
+    * [**1.1 The Sustainable Growth Rate Speaks Up!**](https://github.com/florencex5/Hard_Commodities)👩🏻‍💻 **(Ready for you to check-in!🔑)**
+    * 1.2 On the way! Can you guess what’s coming next?
+  * Chapter Two: Climate-Driven Earnings Forecasts [Under Construction🏗️]
+  * Chapter Three: Adapting Equity Valuation to a Dynamic Climate" [Under Construction🏗️]
 
+👀 Behind the "My Projects" -- Cracking the Climate-Conscious Hard Commodities Code
+-
+* Ah ha!🙃 I'm back and bringing with a broader spectrum—hard commodities. They're crucial yet vulnerable to climate-related risks, how can we ensure these assets adapt to this era of rapid climate transitions?
+* This isn’t just another project; it’s an expedition into uncertainty. Are you ready to challenge conventions and explore alternative valuation methodologies?🤩
+* Let's make it happen!🤜🤛
 
-
-💡My Past Projects 1 【Crude Oil ➔ EV ➔ Auto Industry】
+💡My Past Projects 【Crude Oil ➔ EV ➔ Auto Industry】
 -
 * [**Series 1: Crude Oil within the Context of Oligopoly Market**](https://github.com/florencex5/Crude_Oil_Finance_Project)👩🏻‍💻
   * Inspiration Source: Machine learning might be a solution for the unknown oligopoly market
@@ -14,13 +23,11 @@
 * [**Series 3: Collaborative Action Points for Auto Industry Sustainable Development**](https://github.com/florencex5/Crude_Oil_Finance_Project_2.git)👩🏻‍💻
 
 
-👀 Behind the "My Projects"
+👀 Behind the "My Projects" -- Crude Oil ➔ EV ➔ Auto Industry
 -
-* **Projects 1 【Crude Oil ➔ EV ➔ Auto Industry】**
-  * The summer of 2023 in New York, the sky ablaze with shades of orange. It was the spark of an idea that birthed this project series.
-  * Series 2 just witnessed my maiden attempt at technical analysis. Hold the applause though, because, you know, no guarantees on the accuracy.Duh🥳
-  * Hey there🤩 If you've stumbled upon these lines, chances are we share a common passion(E.g. Crude oil market, Electric vehicle, Hydrogen economy,etc.)So, handle my projects with care, won't you?
-  * Well, that's a wrap for this project series. But, it's not a farewell; think of it more like the kickoff for my adventure into the realms of Crude Oil, Automakers, and the ever-pressing issue of Climate Change. Stick around; it's about to get interesting😝
+* The summer of 2023 in New York, the sky ablaze with shades of orange. It was the spark of an idea that birthed this project series.
+* Series 2 just witnessed my maiden attempt at technical analysis. Hold the applause though, because, you know, no guarantees on the accuracy.Duh~🥳
+* Hey there😃 If you've stumbled upon these lines, chances are we share a common passion(E.g. Crude oil market, Electric vehicle, Hydrogen economy,etc.)So, handle my projects with care, won't you?
 
 
 🌈 My Weekend:
