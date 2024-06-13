@@ -7,7 +7,7 @@
   * Chapter Two: Climate-Driven Earnings Forecasts [Under Construction🏗️]
   * Chapter Three: Adapting Equity Valuation to a Dynamic Climate" [Under Construction🏗️]
 
-👀 Behind the "My Projects" -- Cracking the Climate-Conscious Hard Commodities Code
+👀 Behind the "My Project" -- Cracking the Climate-Conscious Hard Commodities Code
 -
 * Ah ha!🙃 I'm back and bringing with a broader spectrum—hard commodities. They're crucial yet vulnerable to climate-related risks, how can we ensure these assets adapt to this era of rapid climate transitions?
 * This isn’t just another project; it’s an expedition into uncertainty. Are you ready to challenge conventions and explore alternative valuation methodologies?🤩
@@ -23,7 +23,7 @@
 * [**Series 3: Collaborative Action Points for Auto Industry Sustainable Development**](https://github.com/florencex5/Crude_Oil_Finance_Project_2.git)👩🏻‍💻
 
 
-👀 Behind the "My Projects" -- Crude Oil ➔ EV ➔ Auto Industry
+👀 Behind the "My Project" -- Crude Oil ➔ EV ➔ Auto Industry
 -
 * The summer of 2023 in New York, the sky ablaze with shades of orange. It was the spark of an idea that birthed this project series.
 * Series 2 just witnessed my maiden attempt at technical analysis. Hold the applause though, because, you know, no guarantees on the accuracy.Duh~🥳
