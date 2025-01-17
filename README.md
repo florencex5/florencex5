@@ -2,7 +2,7 @@
 -
 * **Cracking the Climate-Conscious Hard Commodities Code: Discovering Their True Value⛏️**
   * Chapter One: When Traditional Key Inputs Meets Climate Transition - **The Sustainable Growth Rate Speaks Up!**
-    * [**Ready for you to check-in!🔑**](https://github.com/florencex5/Hard_Commodities)👩🏻‍💻
+    * [Ready for you to check-in!🔑](https://github.com/florencex5/Hard_Commodities)👩🏻‍💻
   * Chapter Two: Climate-Driven Earnings Forecasts - **Interconnectedness**
     * Pair 1: Copper v.s. Aluminum
     * Pair 2: Crude Oil v.s. Natural Gas
