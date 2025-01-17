@@ -1,11 +1,12 @@
 💡My Recent Projects:
 -
 * **Cracking the Climate-Conscious Hard Commodities Code: Discovering Their True Value⛏️**
-  * Chapter One: When Traditional Key Inputs Meets Climate Transition
-    * [**1.1 The Sustainable Growth Rate Speaks Up!**](https://github.com/florencex5/Hard_Commodities)👩🏻‍💻 **(Ready for you to check-in!🔑)**
-    * 1.2 On the way! Can you guess what’s coming next?
-  * Chapter Two: Climate-Driven Earnings Forecasts [Under Construction🏗️]
-  * Chapter Three: Adapting Equity Valuation to a Dynamic Climate" [Under Construction🏗️]
+  * Chapter One: When Traditional Key Inputs Meets Climate Transition - **The Sustainable Growth Rate Speaks Up!**
+    * [**Ready for you to check-in!🔑**](https://github.com/florencex5/Hard_Commodities)👩🏻‍💻
+  * Chapter Two: Climate-Driven Earnings Forecasts - **Interconnectedness**
+    * Pair 1: Copper v.s. Aluminum
+    * Pair 2: Crude Oil v.s. Natural Gas
+  * Chapter Three: Adapting Equity Valuation to a Dynamic Climate" 
 
 👀 Behind the "My Project" -- Cracking the Climate-Conscious Hard Commodities Code
 -
