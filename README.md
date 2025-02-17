@@ -6,6 +6,9 @@
   * *Chapter Two: Climate-Driven Earnings Forecasts*
     * **The Interconnectedness** 👩🏻‍💻
   * *Chapter Three: Valuing Hard Commodities in Dynamic Climate*
+    * **Copper** 👩🏻‍💻
+    * **WTI Crude Oil** 👩🏻‍💻
+    * **Henry Hub Natural Gas** 👩🏻‍💻
 
 👀 Behind the "My Project" -- Cracking the Climate-Conscious Hard Commodities Code
 -
