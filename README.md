@@ -12,8 +12,8 @@
 
 👀 Behind the "My Project" -- Cracking the Climate-Conscious Hard Commodities Code
 -
-* Ah ha!🙃 I'm back and bringing with a broader spectrum—hard commodities. They're crucial yet vulnerable to climate-related risks, how can we ensure these assets adapt to this era of rapid climate transitions?
-* This isn’t just another project; it’s an expedition into uncertainty. Are you ready to challenge conventions and explore alternative valuation methodologies?🤩
+* Ah ha!🙃 I'm back and bringing with a broader spectrum—hard commodities.
+* ..
 * Let's make it happen!🤜🤛
 
 💡My Past Projects 【Crude Oil ➔ EV ➔ Auto Industry】
